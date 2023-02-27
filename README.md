@@ -1,9 +1,6 @@
 # SYML-Melody-Generator
 LSTM  Network Model Based Melody and LoFi  Generator with GUI
 
-![alt text](https://github.com/AryanNSC18/SYML-Melody-Generator/blob/main/GUI_preview/Workshop.png)
-
-
 # Main frame GUI 
 Enter the seed SYML code in the given col and press [Compile] it will automatically generate the melody for you
 Press [Play] to make use of inbuild midi player
