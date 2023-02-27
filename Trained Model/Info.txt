@@ -1,0 +1,1 @@
+This is a LSTM Trained Model with training data containing melody from Usa England and Germany
